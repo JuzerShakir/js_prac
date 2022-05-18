@@ -1,3 +1,5 @@
+"use strict";
+
 // const markMass = 95;
 // const markHeight = 1.88;
 // const johnMass = 85;

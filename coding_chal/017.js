@@ -1,3 +1,5 @@
+"use strict";
+
 const calcAverageHumanAge = (arr) => {
   console.log(
     arr

@@ -1,3 +1,5 @@
+"use strict";
+
 const billValue = 0;
 const tipValues = [];
 const total = [];

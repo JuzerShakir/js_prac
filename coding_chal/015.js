@@ -1,3 +1,5 @@
+"use strict";
+
 const checkDogs = function (dogsJulia, dogsKate) {
   const onlyDogsJulia = dogsJulia.slice(1, -2);
   //   console.log(onlyDogsJulia);

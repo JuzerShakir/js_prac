@@ -1,3 +1,5 @@
+"use strict";
+
 /*
 This is more of a thinking challenge than a coding challenge 🤓
 

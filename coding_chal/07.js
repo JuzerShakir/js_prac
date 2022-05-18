@@ -1,3 +1,5 @@
+"use strict";
+
 const mark = {
   fullName: "Mark Miller",
   mass: 78,

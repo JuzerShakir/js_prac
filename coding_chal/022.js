@@ -1,3 +1,5 @@
+"use strict";
+
 class CarCl {
   constructor(make, speed) {
     this.make = make;

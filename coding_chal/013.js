@@ -1,3 +1,5 @@
+"use strict";
+
 // * High-Order Functions
 // * A function returning another function
 // const greet = (greeting) => (name) => console.log(`${greeting} ${name}`);

@@ -1,3 +1,5 @@
+"use strict";
+
 const dolphins = 97 + 112 + 101;
 const koalas = 109 + 95 + 123;
 const avgDolphins = dolphins / 3;

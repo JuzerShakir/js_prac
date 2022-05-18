@@ -1,3 +1,5 @@
+"use strict";
+
 const calcAverageHumanAge = (arr) => {
   const dogsHumanAge = arr.map((v) => (v <= 2 ? 2 * v : 16 + 4 * v));
   console.log(dogsHumanAge);
